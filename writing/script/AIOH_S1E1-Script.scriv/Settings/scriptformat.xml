@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerScriptFormat Version="1.0">
+    <Name>BBC-Spinoff</Name>
+    <Units>Inches</Units>
+    <ScriptElements>
+        <Element>
+            <Title>Scene Heading</Title>
+            <KeyEquivalent>s</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="ArialMT" Size="14"/>
+                <UnderlineStyle>Single</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Center</Alignment>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+                <FixedLineHeight>0</FixedLineHeight>
+            </ParagraphFormat>
+            <NextElement>Technical Directions</NextElement>
+            <NextElementOnEmptyLineTab>Technical Directions</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Character &amp; Dialogue</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Technical Directions</Title>
+            <KeyEquivalent>t</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="ArialNova-Light" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <Italic>Yes</Italic>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Parenthetical>Yes</Parenthetical>
+                <Alignment>Left</Alignment>
+                <Spacing>1.5</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <FirstLineIndent>2.5</FirstLineIndent>
+                <Indent>2.5</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+            </ParagraphFormat>
+            <NextElement>Character &amp; Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Character &amp; Dialogue</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Transition</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Character</Title>
+            <KeyEquivalent>d</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Arial Nova" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+                <StyleDelimiter>(	)</StyleDelimiter>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>2</Spacing>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>1</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>2</FirstTab>
+                <DefaultTabInterval>0.25</DefaultTabInterval>
+                <MinTabs>10</MinTabs>
+            </ParagraphFormat>
+            <NextElement>Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Parenthetical Directions</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Parenthetical Directions</NextElementOnTabAfterTyping>
+            <TextToInsertOnTab>(:	)</TextToInsertOnTab>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="No">(CONT'D)</Completion>
+                    <Completion NewLineAfter="No">(BEAT) </Completion>
+                    <Completion NewLineAfter="No">(PAUSE) </Completion>
+                    <Completion NewLineAfter="No">(OFF) </Completion>
+                    <Completion NewLineAfter="No">(V.O.) </Completion>
+                    <Completion NewLineAfter="No">(D) </Completion>
+                    <Completion NewLineAfter="No">(LOW) </Completion>
+                    <Completion NewLineAfter="No">(CLOSE) </Completion>
+                </Completions>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+                <ProjectListAutoCompleteBehavior>InsertTab</ProjectListAutoCompleteBehavior>
+                <AutomaticallyAddPhrasesToProjectList>Yes</AutomaticallyAddPhrasesToProjectList>
+                <PhraseEndDelimiter>(:)</PhraseEndDelimiter>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Dialogue</Title>
+            <KeyEquivalent>D</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="CourierPrimeCode-Regular" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <KeepWithNext>Yes</KeepWithNext>
+                <Alignment>Left</Alignment>
+                <Spacing>1.5</Spacing>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+            </ParagraphFormat>
+            <NextElementOnEmptyLineTab>Parenthetical Directions</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Parenthetical Directions</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="No">(BEAT) </Completion>
+                    <Completion NewLineAfter="No">(PAUSE) </Completion>
+                    <Completion NewLineAfter="No">(OFF) </Completion>
+                    <Completion NewLineAfter="No">(V.O.) </Completion>
+                    <Completion NewLineAfter="No">(D) </Completion>
+                    <Completion NewLineAfter="No">(LOW) </Completion>
+                    <Completion NewLineAfter="No">(CLOSE) </Completion>
+                </Completions>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Parenthetical Directions</Title>
+            <KeyEquivalent>p</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="ArialNova-Light" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <Italic>Yes</Italic>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Parenthetical>Yes</Parenthetical>
+                <Alignment>Left</Alignment>
+                <Spacing>1.5</Spacing>
+                <SpaceBefore>2</SpaceBefore>
+                <FirstLineIndent>2.5</FirstLineIndent>
+                <Indent>2.5</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+            </ParagraphFormat>
+            <NextElement>Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Transition</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Character &amp; Dialogue</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Transition</Title>
+            <CharacterFormat>
+                <Font Name="Arial Nova" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <Italic>Yes</Italic>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1.5</Spacing>
+                <SpaceBefore>2</SpaceBefore>
+                <FirstLineIndent>2.5</FirstLineIndent>
+                <Indent>2.5</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+            </ParagraphFormat>
+            <NextElement>Scene Heading</NextElement>
+            <NextElementOnEmptyLineTab>Character &amp; Dialogue</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Scene Heading</NextElementOnTabAfterTyping>
+            <AutoCompleteList/>
+        </Element>
+        <Element>
+            <Title>Page Turns</Title>
+            <KeyEquivalent>f</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="ArialMT" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Parenthetical>Yes</Parenthetical>
+                <Alignment>Right</Alignment>
+                <Spacing>1.5</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+            </ParagraphFormat>
+            <NextElement>Character &amp; Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Scene Heading</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Character &amp; Dialogue</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>End</Title>
+            <CharacterFormat>
+                <Font Name="ArialNova-Light" Size="14"/>
+                <UnderlineStyle>Single</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Center</Alignment>
+                <Spacing>1.5</Spacing>
+                <SpaceBefore>1.71429</SpaceBefore>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
+            </ParagraphFormat>
+            <NextElement>Scene Heading</NextElement>
+            <NextElementOnEmptyLineTab>Scene Heading</NextElementOnEmptyLineTab>
+            <NextElementOnTabAfterTyping>Scene Heading</NextElementOnTabAfterTyping>
+            <AutoCompleteList/>
+        </Element>
+    </ScriptElements>
+</ScrivenerScriptFormat>

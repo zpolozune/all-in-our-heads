@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="F1902381-FC9F-4D5E-855A-81B4D15EF5E5" Creator="SCRWIN-3.1.2.0" Device="lithium" Author="Zachary Polozune" Modified="2022-11-30 07:52:01 -0500" ModID="E7183ED9-F90E-44E1-A950-403E691B9797">
+    <Binder>
+        <BinderItem UUID="17FC0EC1-32FB-4EE4-917A-FACDCA532948" Type="Folder" Created="2022-11-30 07:20:53 -0500" Modified="2022-11-30 07:22:46 -0500">
+            <Title>Preparation</Title>
+            <MetaData>
+                <StatusID>1</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="04E592EB-5F0D-4817-8A31-71CEC39FCAB8" Type="Folder" Created="2022-11-29 20:39:04 -0500" Modified="2022-11-30 06:58:51 -0500">
+                    <Title>Planning</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Book (Brown Book)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="3C40BBC4-49B3-479D-9CD4-A1CF65A53C0C" Type="Text" Created="2022-11-29 20:39:24 -0500" Modified="2022-11-30 07:12:11 -0500">
+                            <Title>Overview</Title>
+                            <BinderSeparator>Yes</BinderSeparator>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>To Do (Ticked)</IconFileName>
+                                <SectionType>E8B1C76A-B8A1-404E-82DC-56A44F10D57D</SectionType>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>279,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="2788594D-9193-43A9-AA2C-BDEC7280DAC0" Type="Folder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 06:58:51 -0500">
+                    <Title>Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (Yellow Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C39FB4EC-0164-43CA-AD49-083A9B3F6904" Type="Folder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-29 20:45:59 -0500">
+                    <Title>Front Matter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Front Matter.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="3D2C0847-1B98-4E0C-8F6B-41DBD718D587" Type="Text" Created="2019-08-29 06:42:39 -0500" Modified="2022-11-30 07:13:35 -0500">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <SectionType>43233633-CEB1-45C7-BD9A-760BCC379D5F</SectionType>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>34,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="76F2FE62-35E3-4558-AFE9-704CC9D3B7F5" Type="Folder" Created="2022-11-30 07:21:21 -0500" Modified="2022-11-30 07:23:07 -0500">
+            <Title>Resources</Title>
+            <MetaData>
+                <StatusID>1</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Cog</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="5FD6A08D-8CAD-4627-92DA-352785D020B9" Type="Folder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 06:58:51 -0500">
+                    <Title>Templates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A76B7DDC-F1ED-40C2-ABBA-321FBC7B3BFA" Type="Text" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 07:28:57 -0500">
+                            <Title>New Scene</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="96D8D452-3E2A-4450-8E4E-62AB052E8A5E" Type="Folder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 06:58:51 -0500">
+                            <Title>New Act</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <DefaultChildTemplateUUID>A76B7DDC-F1ED-40C2-ABBA-321FBC7B3BFA</DefaultChildTemplateUUID>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A9DCEFA7-6F41-400F-8C87-809DC654D485" Type="ResearchFolder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-29 20:45:59 -0500">
+            <Title>Research</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="1F81E573-21F6-460B-B61A-39088AF7D7B5" Type="WebArchive" Created="2022-11-30 07:18:24 -0500" Modified="2022-11-30 07:18:24 -0500">
+                    <Title>Medscape - Bipolar Disorder</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>mht</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://emedicine.medscape.com/article/286342-overview</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="2D9D79C4-263F-4526-B3D6-88FB3DE12DEB" Type="WebArchive" Created="2022-11-30 07:47:15 -0500" Modified="2022-11-30 07:47:15 -0500">
+                    <Title>Psych Education</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>mht</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://psycheducation.org/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="77B86056-DBE8-423A-9939-6F1B3B981620" Type="WebArchive" Created="2022-11-30 07:47:47 -0500" Modified="2022-11-30 07:47:48 -0500">
+                    <Title>Psychopharmacology Institute</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>mht</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://psychopharmacologyinstitute.com/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="101A2518-5A2E-4722-B3B2-EB3FDB0A9F57" Type="WebArchive" Created="2022-11-30 07:49:39 -0500" Modified="2022-11-30 07:51:58 -0500">
+                    <Title>Psychiatry &amp; Psychotherapy Podcast</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>mht</FileExtension>
+                        <NotesTextSelection>72,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.psychiatrypodcast.com/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="FC4AD3F0-CD53-47CA-955A-450F9C3E3FC1" Type="DraftFolder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 07:23:21 -0500">
+            <Title>S1E1: My Story</Title>
+            <MetaData>
+                <IconFileName>Speech Bubble</IconFileName>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="C6B212E7-7D08-4862-8F19-B0F4C7167136" Type="Folder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 07:12:57 -0500">
+                    <Title>Act 1: My Childhood</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <DefaultChildTemplateUUID>A76B7DDC-F1ED-40C2-ABBA-321FBC7B3BFA</DefaultChildTemplateUUID>
+                    <Children>
+                        <BinderItem UUID="B0CDA850-285D-40FE-8184-CF3F2EBAA331" Type="Text" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-30 07:34:28 -0500">
+                            <Title>Scene 1</Title>
+                            <MetaData/>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>114,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="52BA55F4-DE3D-44A2-AAF1-DBB9B77734B4" Type="Folder" Created="2022-11-29 20:33:26 -0500" Modified="2022-11-30 07:13:09 -0500">
+                    <Title>Act 2: My Adolescence</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <DefaultChildTemplateUUID>A76B7DDC-F1ED-40C2-ABBA-321FBC7B3BFA</DefaultChildTemplateUUID>
+                    <Children>
+                        <BinderItem UUID="11A3BB82-2393-4125-AEC4-72C833D30EDB" Type="Text" Created="2022-11-29 20:33:43 -0500" Modified="2022-11-30 07:28:57 -0500">
+                            <Title>Scene 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="3679D677-0C4D-42D6-9409-AB1F2711AFDD" Type="Folder" Created="2022-11-29 20:33:34 -0500" Modified="2022-11-30 07:13:21 -0500">
+                    <Title>Act 3: My Adulthood</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <DefaultChildTemplateUUID>A76B7DDC-F1ED-40C2-ABBA-321FBC7B3BFA</DefaultChildTemplateUUID>
+                    <Children>
+                        <BinderItem UUID="403C77C5-6A0D-4302-AE90-45901BE2BE33" Type="Text" Created="2022-11-29 20:34:07 -0500" Modified="2022-11-30 07:28:57 -0500">
+                            <Title>Scene 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="7BA31B0A-B5F8-44E3-8A2E-18D1311902FB" Type="TrashFolder" Created="2018-08-01 12:32:02 -0500" Modified="2022-11-29 20:45:59 -0500">
+            <Title>Trash</Title>
+            <MetaData/>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="27CB598F-C0CB-4CB9-9303-B7B74373FB98" Color="0.164706 0.164706 0.164706">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="46EE7C58-0B91-49EE-A44E-0CB0CDAA8085" Color="0.392157 0.392157 0.392157">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+        <Collection Type="Arbitrary" ID="23D38A0C-2F31-497D-B675-14022D8B21E7" Color="0.935561 0.990005 0.841505">
+            <Title>All In Our Heads</Title>
+            <BinderUUIDs>3C40BBC4-49B3-479D-9CD4-A1CF65A53C0C</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="57304B80-E002-4344-B121-7B9DE2CEB6AD" Color="0.990005 0.841505 0.942977">
+            <Title>New Collection</Title>
+            <BinderUUIDs>3C40BBC4-49B3-479D-9CD4-A1CF65A53C0C</BinderUUIDs>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="2">
+            <Title>outline</Title>
+            <Color>0.800000 0.729412 0.988235</Color>
+        </Keyword>
+        <Keyword ID="1">
+            <Title>Scene</Title>
+            <Color>0.960784 0.729412 0.988235</Color>
+        </Keyword>
+    </Keywords>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="EE5E21D3-F864-4787-8B27-E4EC47BCCA20">Act</Type>
+            <Type ID="52F383BB-EF86-44DD-8A4A-D9CEEA89662B">Scene</Type>
+            <Type ID="43233633-CEB1-45C7-BD9A-760BCC379D5F">Title Page</Type>
+            <Type ID="E8B1C76A-B8A1-404E-82DC-56A44F10D57D">Outline</Type>
+            <Type ID="591C6ECB-DADE-4792-9F4B-95F5A1652F21">Research</Type>
+            <Type ID="7B26CB9A-87EF-4930-B16E-36BE51CADAD4">N/A</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>7B26CB9A-87EF-4930-B16E-36BE51CADAD4</Type>
+                <Type>EE5E21D3-F864-4787-8B27-E4EC47BCCA20</Type>
+            </Folders>
+            <Containers>
+                <Type>52F383BB-EF86-44DD-8A4A-D9CEEA89662B</Type>
+            </Containers>
+            <Files>
+                <Type>52F383BB-EF86-44DD-8A4A-D9CEEA89662B</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Standard Labels</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="1.000000 0.760784 0.780392">Planning</Label>
+            <Label ID="1" Color="1.000000 0.831373 0.709804">Writing</Label>
+            <Label ID="2" Color="1.000000 0.909804 0.709804">Editing</Label>
+            <Label ID="3" Color="0.760784 0.949020 0.749020">Completed</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">Open</Status>
+            <Status ID="0">Brainstorming</Status>
+            <Status ID="6">Outlining</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Completed</Status>
+        </StatusItems>
+    </StatusSettings>
+    <CustomMetaDataSettings>
+        <MetaDataField Type="Text" ID="title1" Wraps="Yes" Align="Left">
+            <Title>Title</Title>
+        </MetaDataField>
+        <MetaDataField Type="Text" ID="author" Wraps="Yes" Align="Left">
+            <Title>Author</Title>
+        </MetaDataField>
+        <MetaDataField Type="Date" ID="datestarted" DateType="Custom">
+            <Title>Date Started</Title>
+            <DateFormat>y-MM-dd</DateFormat>
+        </MetaDataField>
+        <MetaDataField Type="Date" ID="datecompleted" DateType="Custom">
+            <Title>Date Completed</Title>
+            <DateFormat>y-MM-dd</DateFormat>
+        </MetaDataField>
+        <MetaDataField Type="Date" ID="copyright" DateType="Custom">
+            <Title>Copyright</Title>
+            <DateFormat>y-MM-dd</DateFormat>
+        </MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:08:55 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="4" Date="2022-11-30 07:52:01 -0500"/>
+    </ProjectTargets>
+    <AutoCompleteList>
+        <Completion Scope="2">ZACK</Completion>
+    </AutoCompleteList>
+    <TemplateFolderUUID>5FD6A08D-8CAD-4627-92DA-352785D020B9</TemplateFolderUUID>
+    <BookmarksFolderUUID>2788594D-9193-43A9-AA2C-BDEC7280DAC0</BookmarksFolderUUID>
+    <RecentWritingHistory Date="2022-11-30 00:00:00 -0500">
+        <DraftWordCount>17</DraftWordCount>
+        <DraftCharCount>106</DraftCharCount>
+        <OtherWordCount>-581</OtherWordCount>
+        <OtherCharCount>-3363</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
